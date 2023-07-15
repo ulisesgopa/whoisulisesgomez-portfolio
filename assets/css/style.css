@@ -334,6 +334,7 @@ main {
 .avatar-box {
   background: var(--bg-gradient-onyx);
   border-radius: 20px;
+  
 }
 
 .info-content .name {
@@ -1026,7 +1027,12 @@ main {
   font-weight: var(--fw-300);
 }
 
-
+  .image-cert {
+    width: 340px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+  }
 
 
 
