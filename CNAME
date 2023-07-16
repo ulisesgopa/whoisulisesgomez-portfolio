@@ -1,1 +1,6 @@
-whoisulisesgomez.com
+www.whoisulisesgomez.com.      IN      A
+www.whoisulisesgomez.com. 0     IN      CNAME   ulisesgopa.github.io.
+ulisesgopa.github.io.   0       IN      A       185.199.108.153
+ulisesgopa.github.io.   0       IN      A       185.199.109.153
+ulisesgopa.github.io.   0       IN      A       185.199.110.153
+ulisesgopa.github.io.   0       IN      A       185.199.111.153
