@@ -1029,7 +1029,7 @@ main {
 }
 
   .image-cert {
-    width: 340px;
+    width: 100%;
     margin: auto;
     margin-top: 20px;
     border-radius: 10px;
@@ -1235,7 +1235,20 @@ textarea.form-input::-webkit-resizer { display: none; }
 /*-----------------------------------*\
   #RESPONSIVE
 \*-----------------------------------*/
+/**
+ * responsive larger than 300px screen
+ */
 
+@media (min-width: 300px) {
+
+  .sidebar {
+    max-height: 140px;
+
+  }
+  .sidebar.active { max-height: 584px; }
+
+
+}
 /**
  * responsive larger than 450px screen
  */
@@ -1247,6 +1260,8 @@ textarea.form-input::-webkit-resizer { display: none; }
    */
 
   .clients-item { min-width: calc(33.33% - 10px); }
+
+  .sidebar.active { max-height: 584px; }
 
 
 
