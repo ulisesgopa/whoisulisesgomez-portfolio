@@ -1242,7 +1242,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 @media (min-width: 300px) {
 
   .sidebar {
-    max-height: 140px;
+    max-height: 160px;
 
   }
   .sidebar.active { max-height: 584px; }
@@ -1351,7 +1351,7 @@ textarea.form-input::-webkit-resizer { display: none; }
    */
 
   .sidebar {
-    max-height: 180px;
+    max-height: 220px;
     margin-bottom: 30px;
   }
 
