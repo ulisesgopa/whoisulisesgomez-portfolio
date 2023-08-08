@@ -1,8 +1,7 @@
 
-![Logo](https://raw.githubusercontent.com/ulisesgopa/whoisulisesgomez-portfolio/master/assets/readme/logo-streamtech.jpg)
-
-
 # Ulises Gómez - Portafolio
+
+![Logo](https://raw.githubusercontent.com/ulisesgopa/whoisulisesgomez-portfolio/master/assets/readme/logo-streamtech.jpg)
 
 Este es mi portafolio web personal, basado en el proyecto open source [vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) creado por [CodeWithSadee](https://github.com/codewithsadee). Puedes visitar mi portafolio en vivo [aquí](https://whoisulisesgomez.com/).
 
@@ -10,13 +9,10 @@ Este es mi portafolio web personal, basado en el proyecto open source [vcard-per
 
 Este proyecto es mi portafolio web personal, diseñado para mostrar mis proyectos, habilidades y experiencia. He personalizado el proyecto original para adaptarlo a mis necesidades y mostrar la información más relevante sobre mí.
 
-
-
-
 ## Características
 
 - **Diseño Personalizado y Mejorado:** He mantenido el diseño general del proyecto original [vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio), pero he realizado mejoras significativas en los estilos para ajustarlos al contenido que deseo mostrar.
-  
+
 - **Contenido Relevante y Optimizado:** He adaptado el contenido del portafolio para resaltar los aspectos más importantes de mi experiencia, habilidades y proyectos. Se ha optimizado la estructura de la información para ofrecer una experiencia clara y atractiva a los visitantes.
 
 - **Optimización para Carga Rápida:** Todas las imágenes del portafolio han sido convertidas al formato WebP para reducir el tiempo de carga de la página.
@@ -53,7 +49,7 @@ Este proyecto es mi portafolio web personal, diseñado para mostrar mis proyecto
 2. Abre el archivo `index.html` en tu navegador para ver el portafolio.
 3. Personaliza el contenido en los archivos HTML y CSS según tus necesidades.
 
-    
+
 ## Contribución
 
 ¡Aprecio cualquier tipo de contribución! Si encuentras algún problema o tienes sugerencias, siéntete libre de abrir un issue o enviar un pull request.
