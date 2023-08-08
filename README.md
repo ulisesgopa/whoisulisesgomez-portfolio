@@ -27,7 +27,7 @@ Este proyecto es mi portafolio web personal, diseñado para mostrar mis proyecto
 
 - **Navegación Intuitiva:** La navegación se ha mejorado para garantizar que los visitantes puedan moverse fácilmente por el sitio.
 
-- **Licencia Abierta:** Este proyecto sigue utilizando la licencia [MIT](url_de_la_licencia) para promover la colaboración y el uso compartido.
+- **Licencia Abierta:** Este proyecto sigue utilizando la licencia MIT para promover la colaboración y el uso compartido.
 
 ## Capturas de Pantalla
 
@@ -56,4 +56,4 @@ Este proyecto es mi portafolio web personal, diseñado para mostrar mis proyecto
 
 ## License
 
-Este proyecto está bajo la licencia [MIT](url_de_la_licencia).
+Este proyecto está bajo la licencia MIT.
