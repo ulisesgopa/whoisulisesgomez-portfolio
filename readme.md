@@ -1,8 +1,7 @@
 
-![Logo](https://raw.githubusercontent.com/ulisesgopa/whoisulisesgomez-portfolio/master/assets/readme/logo-streamtech.jpg)
-
-
 # Ulises Gómez - Portafolio
+
+![Logo](https://raw.githubusercontent.com/ulisesgopa/whoisulisesgomez-portfolio/master/assets/readme/logo-streamtech.jpg)
 
 Este es mi portafolio web personal, basado en el proyecto open source [vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) creado por [CodeWithSadee](https://github.com/codewithsadee). Puedes visitar mi portafolio en vivo [aquí](https://whoisulisesgomez.com/).
 
